@@ -1,299 +1,405 @@
-<div align="center">
+<!-- ============================================================ -->
+<!--   PROFESSIONAL GITHUB PROFILE — SAHIL BHUTTO               -->
+<!-- ============================================================ -->
 
-<!-- HEADER SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sahil%20Bhutto&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Creative%20Problem%20Solver&descAlignY=51&descAlign=50" width="100%"/>
+<!-- TOP ACCENT LINE -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-</div>
+<br/>
 
-<!-- TYPING SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3BADE8&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Building+Digital+Experiences;Code+%7C+Design+%7C+Innovation" alt="Typing SVG" />
-</p>
-
-<!-- ABOUT ME SECTION -->
-<div align="center">
-
-### 💫 About Me
-
-</div>
-
-```typescript
-const developer = {
-    name: "Sahil Bhutto",
-    role: "Full Stack Developer",
-    location: "Karachi, Pakistan 🌍",
-    currentFocus: "Building scalable web applications",
-    interests: ["Web Development", "AI/ML", "Open Source", "UI/UX Design"],
-    askMeAbout: ["web dev", "tech", "app design", "photography"],
-    funFact: "I turn coffee into code ☕ → 💻"
-};
-```
-
-<!-- SOCIAL BADGES -->
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com)
-
-</div>
-
----
-
-<!-- TECH STACK SECTION -->
-<div align="center">
-
-### 🛠️ Tech Stack & Tools
-
-#### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-#### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-#### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-#### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
-
----
-
-<!-- GITHUB STATS SECTION -->
-<div align="center">
-
-### 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=sahilbhutto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BADE8&icon_color=3BADE8&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbhutto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BADE8&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
-
-</div>
-
-<!-- STREAK STATS -->
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilbhutto&theme=tokyonight&hide_border=true&background=0D1117&stroke=3BADE8&ring=3BADE8&fire=FFDD00&currStreakLabel=FFFFFF" alt="GitHub Streak" width="600"/>
-
-</div>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sahilbhutto&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3BADE8&line=3BADE8&point=FFFFFF)](https://github.com/sahilbhutto)
-
-</div>
-
----
-
-<!-- FEATURED PROJECTS -->
-<div align="center">
-
-### 🚀 Featured Projects
-
-</div>
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--   SECTION 01 · IDENTITY / INTRO                          -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilbhutto&repo=project-name-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BADE8&icon_color=3BADE8&text_color=FFFFFF)](https://github.com/sahilbhutto/project-name-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilbhutto&repo=project-name-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BADE8&icon_color=3BADE8&text_color=FFFFFF)](https://github.com/sahilbhutto/project-name-2)
+<!-- EYEBROW LABEL -->
+<img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=0a0a0f&logo=code&logoColor=7c3aed"/>
+
+<br/><br/>
+
+<!-- MAIN NAME DISPLAY -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Sahil%20Bhutto&fontAlign=50&fontAlignY=55&fontSize=72&fontColor=e2e8f0&animation=fadeIn&desc=&stroke=7c3aed&strokeWidth=0" width="100%"/>
+
+
+<!-- LIVE STATUS ROW -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<img src="https://img.shields.io/badge/●_AVAILABLE-Open%20to%20Work-052e16?style=flat-square&labelColor=052e16&color=052e16&logoColor=4ade80"/>
+</td>
+<td>&nbsp;&nbsp;</td>
+<td>
+<img src="https://img.shields.io/badge/📍-Karachi%2C%20Pakistan-1e1b4b?style=flat-square&labelColor=1e1b4b&color=1e1b4b"/>
+</td>
+<td>&nbsp;&nbsp;</td>
+<td>
+<img src="https://img.shields.io/badge/⚡-Building%20in%20Public-3b1f0f?style=flat-square&labelColor=3b1f0f&color=3b1f0f"/>
+</td>
+<td>&nbsp;&nbsp;</td>
+<td>
+<img src="https://img.shields.io/badge/☕-Coffee%20Powered-1c1917?style=flat-square&labelColor=1c1917&color=1c1917"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- SOCIAL LINKS — editorial pill style -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-e2e8f0?style=for-the-badge&logo=safari&logoColor=0a0a0f)](https://your-portfolio.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)&nbsp;
+[![Twitter](https://img.shields.io/badge/𝕏-111827?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)&nbsp;
+[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil@example.com)&nbsp;
+[![Dev.to](https://img.shields.io/badge/Dev.to-0a0a0f?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourhandle)
 
 </div>
 
-<details>
-<summary><b>📁 More Projects</b></summary>
-<br>
+<br/>
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Project Name 1** | Brief description of what it does | React, Node.js, MongoDB | [Demo](link) • [Repo](link) |
-| **Project Name 2** | Brief description of what it does | Python, FastAPI, PostgreSQL | [Demo](link) • [Repo](link) |
-| **Project Name 3** | Brief description of what it does | Next.js, TailwindCSS | [Demo](link) • [Repo](link) |
-| **Project Name 4** | Brief description of what it does | Vue.js, Express, MySQL | [Demo](link) • [Repo](link) |
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
 
-</details>
+<br/>
 
----
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--   SECTION 02 · WHO AM I                                  -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 
-<!-- ACHIEVEMENTS SECTION -->
-<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
 
-### 🏆 GitHub Achievements
+<!-- LEFT — IDENTITY MANIFEST -->
+<td width="52%" valign="top">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sahilbhutto&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+<br/>
 
-</div>
+**`// WHO AM I`**
 
----
+&nbsp;&nbsp;Hi — I'm **Sahil**, a Full Stack Developer based in Karachi with a passion for building products that are both technically solid and delightful to use.
 
-<!-- RECENT ACTIVITY -->
-<div align="center">
+&nbsp;&nbsp;I specialize in the full product lifecycle — from designing the architecture to shipping the final pixel. I care deeply about **clean code**, **performance**, and **developer experience**.
 
-### ⚡ Recent Activity
-
-</div>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<!-- CODING TIME -->
-<div align="center">
-
-### ⏱️ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<!-- VISITORS BADGE -->
-<div align="center">
-
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/sahilbhutto/count.svg)
-
-<img src="https://komarev.com/ghpvc/?username=sahilbhutto&color=3BADE8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
-
----
-
-<!-- QUOTE SECTION -->
-<div align="center">
-
-### 💭 Dev Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<!-- RANDOM MEME -->
-<div align="center">
-
-### 😄 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Meme"/>
-
-</div>
-
----
-
-<!-- SNAKE EATING CONTRIBUTIONS -->
-<div align="center">
-
-### 🐍 Watch the Snake Eat My Contributions!
-
-![snake gif](https://github.com/sahilbhutto/sahilbhutto/blob/output/github-contribution-grid-snake.svg)
-
-<sub>Note: To enable the snake animation, you need to set up GitHub Actions. See instructions below.</sub>
-
-</div>
-
----
-
-<!-- FOOTER SECTION -->
-<div align="center">
-
-### 💬 Let's Connect & Collaborate!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**Show some ❤️ by starring some of my repositories!**
-
-<sub>Last updated: Automatically via GitHub Actions</sub>
-
-</div>
-
-<!-- GITHUB METRICS -->
-<details>
-<summary><b>📈 Detailed GitHub Metrics</b></summary>
-<br>
-
-![Metrics](https://metrics.lecoq.io/sahilbhutto?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&people=1&topics=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&topics.mode=starred&topics.sort=stars&topics.limit=15&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FKarachi)
-
-</details>
-
----
-
-<!-- SETUP INSTRUCTIONS -->
-<details>
-<summary><b>⚙️ Setup Instructions for Snake Animation</b></summary>
-<br>
-
-To enable the snake eating contributions animation, follow these steps:
-
-1. **Create the workflow file:**
-   - In your `sahilbhutto` repository, create `.github/workflows/snake.yml`
-
-2. **Add this code to `snake.yml`:**
+<br/>
 
 ```yaml
-name: Generate Snake
+# sahil.bhutto.yaml
+─────────────────────────────────────────
+  identity:
+    name       : Sahil Bhutto
+    role       : Full Stack Developer
+    location   : Karachi, Pakistan 🇵🇰
+    experience : 4+ Years
+    timezone   : PKT (UTC +5)
 
-on:
-  schedule:
-    - cron: "0 */6 * * *" # every 6 hours
-  workflow_dispatch:
+  currently:
+    working_on : "SaaS platform + open-source CLI"
+    learning   : ["Rust", "System Design", "LLMs"]
+    exploring  : "AI-augmented developer tooling"
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: sahilbhutto
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+  values:
+    - Ship fast, iterate faster
+    - Code that reads like prose
+    - Products people actually love
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  reach_me_at  : sahil@example.com
+─────────────────────────────────────────
 ```
 
-3. **Trigger the workflow:**
-   - Go to Actions tab in your repository
-   - Run the "Generate Snake" workflow manually
-   - The snake will be generated and appear in your README!
+<br/>
 
-</details>
+<!-- QUICK STATS ROW -->
+
+
+</td>
+
+<!-- DIVIDER -->
+<td width="4%" align="center" valign="middle">
+</td>
+
+<!-- RIGHT — GITHUB STATS -->
+<td width="44%" valign="top" align="center">
+
+<br/>
+
+**`// GITHUB METRICS`**
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sahilbhutto&show_icons=true&theme=transparent&hide_border=true&title_color=7c3aed&icon_color=7c3aed&text_color=cbd5e1&bg_color=00000000&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Contribution+Overview" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilbhutto&theme=transparent&hide_border=true&background=00000000&stroke=334155&ring=7c3aed&fire=f59e0b&currStreakLabel=cbd5e1&sideNums=7c3aed&dates=475569&currStreakNum=e2e8f0&sideLabels=94a3b8" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbhutto&layout=compact&theme=transparent&hide_border=true&title_color=7c3aed&text_color=cbd5e1&bg_color=00000000&langs_count=6&custom_title=Most+Used+Languages" width="80%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--   SECTION 03 · TECH STACK — PROFESSIONAL LAYOUT         -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+**`// TECH STACK & EXPERTISE`**
+
+</div>
+
+<br/>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+
+<!-- ROW 1: LANGUAGES + FRONTEND -->
+<tr>
+<td width="50%" valign="top">
+
+**◈ &nbsp;Languages**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go&theme=dark" height="42"/>
+
+<br/><br/>
+
+
+</td>
+<td width="50%" valign="top">
+
+**◈ &nbsp;Frontend**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,sass&theme=dark" height="42"/>
+
+</td>
+</tr>
+
+<!-- SEPARATOR -->
+<tr><td colspan="2"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/></td></tr>
+
+<!-- ROW 2: BACKEND + DATABASE -->
+<tr>
+<td width="50%" valign="top">
+
+**◈ &nbsp;Backend & APIs**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,graphql&theme=dark" height="42"/>
+
+</td>
+<td width="50%" valign="top">
+
+**◈ &nbsp;Databases**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite&theme=dark" height="42"/>
+
+
+</td>
+</tr>
+
+<!-- SEPARATOR -->
+<tr><td colspan="2"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/></td></tr>
+
+<!-- ROW 3: CLOUD/DEVOPS + TOOLS -->
+<tr>
+<td width="50%" valign="top">
+
+**◈ &nbsp;Cloud & DevOps**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx&theme=dark" height="42"/>
+
+
+</td>
+<td width="50%" valign="top">
+
+**◈ &nbsp;Tools & Workflow**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&theme=dark" height="42"/>
+
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--   SECTION 04 · FEATURED PROJECTS                        -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+**`// FEATURED PROJECTS`**
+
+</div>
+
+<br/>
+
+<table width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
+
+**◈ Project Alpha** &nbsp; `SaaS Platform`
+> High-performance multi-tenant SaaS with real-time analytics and role-based access.
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,aws&theme=dark&perline=4" height="32"/>
+
+`10k+ active users` &nbsp;·&nbsp; `99.9% uptime` &nbsp;·&nbsp; `<100ms API`
+
+[![Demo](https://img.shields.io/badge/Live_Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://link)
+[![Repo](https://img.shields.io/badge/Source_Code-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/sahilbhutto)
+
+</td>
+<td width="50%" valign="top">
+
+**◈ Project Beta** &nbsp; `AI Tool`
+> AI-powered document analyzer with GPT-4 integration and real-time inference pipeline.
+
+<img src="https://skillicons.dev/icons?i=nextjs,python,fastapi,docker&theme=dark&perline=4" height="32"/>
+
+`GPT-4 + fine-tuned models` &nbsp;·&nbsp; `E2E encrypted` &nbsp;·&nbsp; `50k users`
+
+[![Demo](https://img.shields.io/badge/Live_Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://link)
+[![Repo](https://img.shields.io/badge/Source_Code-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/sahilbhutto)
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+**◈ Project Gamma** &nbsp; `Open Source`
+> Developer tooling library — 500+ GitHub stars, 10k+ weekly npm downloads.
+
+<img src="https://skillicons.dev/icons?i=ts,tailwind,postgresql,vercel&theme=dark&perline=4" height="32"/>
+
+`⭐ 500+ stars` &nbsp;·&nbsp; `50+ prod apps` &nbsp;·&nbsp; `npm published`
+
+[![Demo](https://img.shields.io/badge/Live_Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://link)
+[![Repo](https://img.shields.io/badge/Source_Code-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/sahilbhutto)
+
+</td>
+<td width="50%" valign="top">
+
+**◈ Project Delta** &nbsp; `E-Commerce`
+> Mobile-first e-commerce platform with real-time inventory and Stripe payments.
+
+<img src="https://skillicons.dev/icons?i=vue,express,redis,mysql&theme=dark&perline=4" height="32"/>
+
+`50k+ monthly orders` &nbsp;·&nbsp; `WebSockets` &nbsp;·&nbsp; `Stripe + PayPal`
+
+[![Demo](https://img.shields.io/badge/Live_Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://link)
+[![Repo](https://img.shields.io/badge/Source_Code-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/sahilbhutto)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--   SECTION 05 · GITHUB ACTIVITY + TROPHIES               -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+**`// GITHUB ACTIVITY`**
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilbhutto&theme=github-compact&hide_border=true&bg_color=0D1117&color=7c3aed&line=7c3aed&point=e2e8f0&area=true&area_color=7c3aed" width="100%"/>
+
+<br/>
+
+**`// ACHIEVEMENTS`**
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sahilbhutto&theme=onestar&no-frame=true&no-bg=false&margin-w=8&margin-h=0&column=7" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--   SECTION 06 · CONTRIBUTION SNAKE                       -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+**`// CONTRIBUTION GRID`**
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sahilbhutto/sahilbhutto/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sahilbhutto/sahilbhutto/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://github.com/sahilbhutto/sahilbhutto/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--   SECTION 07 · FOOTER / CTA                             -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+**`// LET'S BUILD TOGETHER`**
+
+<br/>
+
+> *I'm always open to discussing new projects, creative ideas, or opportunities*
+> *to be part of something ambitious. Drop a message — I respond within 24h.*
+
+<br/>
+
+[![Email Me](https://img.shields.io/badge/✉_Email_Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil@example.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0284c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)&nbsp;
+[![Portfolio](https://img.shields.io/badge/See_My_Work-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sahilbhutto&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&abbreviated=true"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/sahilbhutto?style=for-the-badge&color=0284c7&label=FOLLOWERS&logo=github&logoColor=white"/>
+
+<br/><br/>
+
+<sub>Crafted with precision by <b>Sahil Bhutto</b> — Karachi, Pakistan 🇵🇰</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,60:1e1b4b,100:0a0a0f&height=100&section=footer&reversal=false" width="100%"/>
