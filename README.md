@@ -12,72 +12,64 @@
 
 </div>
 
-<!-- TODO: replace YOUR-LINKEDIN-USERNAME above and in the Contact section once confirmed. -->
+<!-- TODO: replace YOUR-LINKEDIN-USERNAME here and in the Contact section. -->
 
-<img src="assets/divider.svg" width="100%" alt="">
+<br>
 
-## About
+<img src="assets/h-about.svg" width="100%" alt="About">
 
-<table>
-<tr>
-<td valign="top" width="58%">
+<img src="assets/about.svg" width="100%" alt="Computer Science student at the University of Larkano building toward Full-Stack AI Engineering. Started on the frontend with HTML, CSS, JavaScript and React, moved to full-stack development, and now focuses on backend engineering with Node.js, Express, then Python and FastAPI. Goal: production-ready Full-Stack AI Engineer by 2028. 4th semester, graduating 2028, 2nd position in the Theory of Programming Languages test, 3 featured projects.">
 
-<p>I'm a Computer Science student at the University of Larkano, in my 4th semester and graduating in 2028, working toward becoming a production-ready Full-Stack AI Engineer.</p>
+<br>
 
-<p>I started on the frontend with HTML, CSS, JavaScript and React, then moved to full-stack development because I wanted to own what happens behind the interface: APIs, databases, validation, and the architecture that holds a product together. Backend engineering is where most of my time goes now, with Node.js and Express today and Python with FastAPI next.</p>
-
-<p>What interests me most is how software is structured, not only how it looks: layered architecture, clean data models, authentication, and the habits that keep code maintainable. The plan is to build AI engineering on top of that base, with LLM applications, RAG and agents, so what I make is intelligent and dependable.</p>
-
-</td>
-<td valign="top" width="42%">
-
-<table>
-<tr><td><b>Name</b></td><td>Sahil Ali Bhutto</td></tr>
-<tr><td><b>GitHub</b></td><td>@sahilbhutto</td></tr>
-<tr><td><b>Location</b></td><td>Pakistan</td></tr>
-<tr><td><b>Focus</b></td><td>Full-Stack, Backend Engineering</td></tr>
-<tr><td><b>Studying</b></td><td>BS Computer Science, University of Larkano (4th semester)</td></tr>
-<tr><td><b>Graduating</b></td><td>2028</td></tr>
-<tr><td><b>Goal</b></td><td>Full-Stack AI Engineer by 2028</td></tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<img src="assets/workflow.svg" width="100%" alt="Engineering workflow: idea, design, architecture, development, testing, deployment">
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Education and credentials
+<img src="assets/h-education.svg" width="100%" alt="Education and skills">
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td align="center" width="50%" valign="top">
+<br>
+<img src="./assets/logos/university-of-larkano.png.png" height="110" alt="University of Larkano logo">
+<br><br>
 <b>University of Larkano</b><br>
-Bachelor of Science in Computer Science<br><br>
-Current semester: 4th<br>
-Expected graduation: 2028
+Bachelor of Science in Computer Science<br>
+4th semester | Expected graduation 2028
+<br><br>
 </td>
-<td valign="top" width="33%">
+<td align="center" width="50%" valign="top">
+<br>
+<img src="assets/logos/aptech.png" height="110" alt="Aptech logo">
+<br><br>
 <b>Aptech</b><br>
 Diploma in Information Systems Management (DISM)
+<br><br>
 </td>
-<td valign="top" width="33%">
-<b>Academic achievement</b><br>
-2nd position in the Theory of Programming Languages test
+</tr>
+<tr>
+<td colspan="2" align="center">
+<b>Academic achievement:</b> 2nd position in the Theory of Programming Languages test
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<br>
+<b>Skills I learned along the way</b>
+<br><br>
+<!-- TODO: edit the icon list to match what you actually learned. Icon names: https://skillicons.dev -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,py,git&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, MySQL, Python, Git">
+<br><br>
 </td>
 </tr>
 </table>
 
-### Certifications
+<br>
 
-Only verified credentials appear here. Fields in `[BRACKETS]` are placeholders to fill in; nothing below is invented.
+<img src="assets/h-certifications.svg" width="100%" alt="Certifications">
 
 <table>
 <tr>
 <td valign="top" width="33%">
-<img src="assets/placeholder.svg" width="100%" alt="Certificate preview placeholder"><br>
+<img src="assets/certificates/aptech-dism.png" width="100%" alt="Aptech DISM certificate">
+<br><br>
 <b>Diploma in Information Systems Management (DISM)</b><br>
 Issuer: Aptech<br>
 Issued: [ISSUE DATE]<br>
@@ -85,7 +77,8 @@ Credential ID: [CREDENTIAL ID]<br><br>
 <img src="https://img.shields.io/badge/Verify-add_URL-8A97B5?style=flat-square" alt="Verification link placeholder">
 </td>
 <td valign="top" width="33%">
-<img src="assets/placeholder.svg" width="100%" alt="Certificate preview placeholder"><br>
+<img src="assets/certificates/certificate-2.png" width="100%" alt="Certificate 2 image">
+<br><br>
 <b>[CERTIFICATE TITLE]</b><br>
 Issuer: [ISSUING ORGANIZATION]<br>
 Issued: [ISSUE DATE]<br>
@@ -93,7 +86,8 @@ Credential ID: [CREDENTIAL ID]<br><br>
 <img src="https://img.shields.io/badge/Verify-add_URL-8A97B5?style=flat-square" alt="Verification link placeholder">
 </td>
 <td valign="top" width="33%">
-<img src="assets/placeholder.svg" width="100%" alt="Certificate preview placeholder"><br>
+<img src="assets/certificates/certificate-3.png" width="100%" alt="Certificate 3 image">
+<br><br>
 <b>[CERTIFICATE TITLE]</b><br>
 Issuer: [ISSUING ORGANIZATION]<br>
 Issued: [ISSUE DATE]<br>
@@ -103,167 +97,112 @@ Credential ID: [CREDENTIAL ID]<br><br>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<br>
 
-## Technology ecosystem
-
-Grouped by how I actually use each tool: what I work with comfortably, what I'm learning now, and what comes next.
-
-### Comfortable working with
+<img src="assets/h-technology.svg" width="100%" alt="Technology">
 
 <table>
 <tr>
-<td width="22%"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap"><br>React Router</td>
+<td colspan="2" align="center">
+<b>Frontend</b><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma&perline=9&theme=dark" alt="HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap, Figma">
+</td>
 </tr>
 <tr>
-<td><b>Frontend ecosystem</b></td>
-<td><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"><br>React Hook Form, Zod, Formik, Yup, TanStack Query</td>
+<td align="center" width="50%">
+<b>Backend</b><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi&perline=4&theme=dark" alt="Node.js, Express.js, Python, FastAPI">
+</td>
+<td align="center" width="50%">
+<b>Database</b><br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=4&theme=dark" alt="MongoDB, MySQL, PostgreSQL, SQLite">
+</td>
 </tr>
 <tr>
-<td><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js"><br>REST API development, middleware, async programming, request validation, exception handling</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" alt="MongoDB, MySQL, SQLite"><br>Mongoose, SQL</td>
-</tr>
-<tr>
-<td><b>Developer tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu&theme=dark" alt="Git, GitHub, VS Code, Linux, Ubuntu"></td>
+<td colspan="2" align="center">
+<b>Developer tools</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,docker&perline=6&theme=dark" alt="Git, GitHub, VS Code, Linux, Ubuntu, Docker">
+</td>
 </tr>
 </table>
 
-### Currently learning
+<br>
 
-<table>
-<tr>
-<td width="22%"><b>Backend and data</b></td>
-<td><img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker&theme=dark" alt="Python, FastAPI, PostgreSQL, Docker"><br>SQLAlchemy, Alembic, dependency injection</td>
-</tr>
-</table>
+<img src="assets/h-projects.svg" width="100%" alt="Featured projects">
 
-### Exploring next
-
-<table>
-<tr>
-<td width="22%"><b>AI engineering</b></td>
-<td>Python for AI, OpenAI API, Gemini API, Claude API, Groq, OpenRouter, Hugging Face, Vercel AI SDK, LangChain, LangGraph, RAG, AI agents, MCP, n8n, LLM applications</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>shadcn/ui</td>
-</tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Featured projects
-
-Each project below is labeled by status. Anything not yet built is marked as planned, and repository links stay placeholders until confirmed.
-
-<!-- TODO: replace the repository links below with the exact repo URLs, and set each Status line to Completed, In progress, or Planned after checking the code. -->
-
-### Project 01: SNT Supermart LRK
+<!-- TODO: set each Status line to Completed, In progress or Planned after checking the repo, and replace the repository links. -->
 
 <img src="assets/snt-supermart.svg" width="100%" alt="SNT Supermart LRK project cover with architecture diagram">
 
 <table>
 <tr>
-<td valign="top" width="50%">
-<b>Category</b><br>Full-Stack E-Commerce / Supermarket Platform<br><br>
-<b>About</b><br>A modern supermarket platform focused on a complete online shopping experience, with structured product management, category architecture and dynamic product discovery.<br><br>
-<b>Status</b><br>[SET AFTER REPO REVIEW: Completed, In progress or Planned]
+<td width="46%" valign="top">
+<img src="assets/projects/snt-supermart.png" width="100%" alt="SNT Supermart LRK screenshot">
 </td>
-<td valign="top" width="50%">
-<b>Stack</b><br>Next.js, React, TypeScript, Tailwind CSS, Node.js / Express.js, REST APIs, MongoDB<br><br>
-<b>Implementation areas</b><br>
-Product management<br>
-Categories and subcategories<br>
-Dynamic category routes<br>
-Filtering, sorting and pagination<br>
-Frontend and backend integration<br>
-Local delivery information for Larkana<br><br>
-<b>Planned production work</b><br>Authentication, RBAC, payments, Docker, Redis, background jobs, testing, CI/CD, deployment, monitoring
+<td valign="top">
+<b>SNT Supermart LRK</b><br>
+Full-Stack E-Commerce / Supermarket Platform<br><br>
+A modern supermarket platform focused on a complete online shopping experience, with structured product management, category architecture and dynamic product discovery.<br><br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,mongodb&theme=dark" alt="Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB"><br><br>
+<b>Built so far:</b> product management, categories and subcategories, dynamic category routes, filtering, sorting, pagination, frontend and backend integration, Larkana delivery information<br><br>
+<b>Planned:</b> authentication, RBAC, payments, Docker, Redis, background jobs, testing, CI/CD, deployment, monitoring<br><br>
+<b>Status:</b> [Completed / In progress / Planned]<br><br>
+<a href="https://github.com/sahilbhutto?tab=repositories"><img src="https://img.shields.io/badge/Repository-link_pending-0D1530?style=for-the-badge&logo=github" alt="Repository"></a>
+<img src="https://img.shields.io/badge/Live_demo-not_published-8A97B5?style=for-the-badge" alt="Live demo not published">
 </td>
 </tr>
 </table>
 
-<a href="https://github.com/sahilbhutto?tab=repositories"><img src="https://img.shields.io/badge/Repository-link_pending-0D1530?style=for-the-badge&logo=github" alt="Repository"></a>
-<img src="https://img.shields.io/badge/Live_demo-not_published-8A97B5?style=for-the-badge" alt="Live demo not published">
-
-<img src="assets/placeholder.svg" width="60%" alt="Screenshot placeholder for SNT Supermart LRK">
-
-### Project 02: SkillHub LMS
+<br>
 
 <img src="assets/skillhub-lms.svg" width="100%" alt="SkillHub LMS project cover with creator to student workflow">
 
 <table>
 <tr>
-<td valign="top" width="50%">
-<b>Category</b><br>Learning Management System / Creator Economy<br><br>
-<b>About</b><br>An online course-selling platform for individual creators who want to create, publish, manage and sell their own courses. The vision is to give independent educators their own digital learning business.<br><br>
-<b>Status</b><br>[SET AFTER REPO REVIEW: Completed, In progress or Planned]
+<td width="46%" valign="top">
+<img src="assets/projects/skillhub-lms.png" width="100%" alt="SkillHub LMS screenshot">
 </td>
-<td valign="top" width="50%">
-<b>Proposed stack</b><br>React / Next.js, TypeScript, Tailwind CSS, backend APIs, database, authentication<br><br>
-<b>Creator</b><br>Dashboard, course creation, management and publishing, free and paid courses, student management<br><br>
-<b>Student</b><br>Browse and enroll in courses, access content, track progress<br><br>
-<b>Business</b><br>Course pricing, payment integration, enrollment management, creator revenue management
+<td valign="top">
+<b>SkillHub LMS</b><br>
+Learning Management System / Creator Economy<br><br>
+An online course-selling platform for individual creators who want to create, publish, manage and sell their own courses, giving independent educators their own digital learning business.<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" alt="React, Next.js, TypeScript, Tailwind CSS"><br><br>
+<b>Creator:</b> dashboard, course creation, management and publishing, free and paid courses, student management<br>
+<b>Student:</b> browse and enroll in courses, access content, track progress<br>
+<b>Business:</b> pricing, payment integration, enrollment and revenue management<br><br>
+<b>Status:</b> [Completed / In progress / Planned]<br><br>
+<a href="https://github.com/sahilbhutto?tab=repositories"><img src="https://img.shields.io/badge/Repository-link_pending-0D1530?style=for-the-badge&logo=github" alt="Repository"></a>
+<img src="https://img.shields.io/badge/Live_demo-not_published-8A97B5?style=for-the-badge" alt="Live demo not published">
 </td>
 </tr>
 </table>
 
-<a href="https://github.com/sahilbhutto?tab=repositories"><img src="https://img.shields.io/badge/Repository-link_pending-0D1530?style=for-the-badge&logo=github" alt="Repository"></a>
-<img src="https://img.shields.io/badge/Live_demo-not_published-8A97B5?style=for-the-badge" alt="Live demo not published">
-
-<img src="assets/placeholder.svg" width="60%" alt="Screenshot placeholder for SkillHub LMS">
-
-### Project 03: ConnectSphere
+<br>
 
 <img src="assets/connectsphere.svg" width="100%" alt="ConnectSphere project cover with social network illustration">
 
 <table>
 <tr>
-<td valign="top" width="50%">
-<b>Category</b><br>Social Networking / Full-Stack Application<br><br>
-<b>About</b><br>A modern social media-style platform built around user interaction, content sharing and social connections.<br><br>
-<b>Status</b><br>[SET AFTER REPO REVIEW: Completed, In progress or Planned]
+<td width="46%" valign="top">
+<img src="assets/projects/connectsphere.png" width="100%" alt="ConnectSphere screenshot">
 </td>
-<td valign="top" width="50%">
-<b>Stack direction</b><br>React / Next.js, TypeScript, Tailwind CSS, Node.js / Express.js, MongoDB, REST APIs<br><br>
-<b>Core product areas</b><br>
-User registration and profiles<br>
-Posts, likes and reactions, comments<br>
-Follow and connect, social feed<br>
-Media sharing, notifications<br><br>
-<b>Future enhancements</b><br>Real-time messaging, WebSockets, real-time notifications, cloud media storage, search, activity feeds
+<td valign="top">
+<b>ConnectSphere</b><br>
+Social Networking / Full-Stack Application<br><br>
+A modern social media-style platform built around user interaction, content sharing and social connections.<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,mongodb&theme=dark" alt="React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, MongoDB"><br><br>
+<b>Core areas:</b> registration and profiles, posts, likes and reactions, comments, follow and connect, social feed, media sharing, notifications<br><br>
+<b>Planned:</b> real-time messaging, WebSockets, real-time notifications, cloud media storage, search, activity feeds<br><br>
+<b>Status:</b> [Completed / In progress / Planned]<br><br>
+<a href="https://github.com/sahilbhutto?tab=repositories"><img src="https://img.shields.io/badge/Repository-link_pending-0D1530?style=for-the-badge&logo=github" alt="Repository"></a>
+<img src="https://img.shields.io/badge/Live_demo-not_published-8A97B5?style=for-the-badge" alt="Live demo not published">
 </td>
 </tr>
 </table>
 
-<a href="https://github.com/sahilbhutto?tab=repositories"><img src="https://img.shields.io/badge/Repository-link_pending-0D1530?style=for-the-badge&logo=github" alt="Repository"></a>
-<img src="https://img.shields.io/badge/Live_demo-not_published-8A97B5?style=for-the-badge" alt="Live demo not published">
+<br>
 
-<img src="assets/placeholder.svg" width="60%" alt="Screenshot placeholder for ConnectSphere">
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Software engineering and architecture
-
-Beyond frameworks, these are the fundamentals I'm building depth in.
-
-<img src="assets/engineering-architecture.svg" width="100%" alt="Layered architecture from presentation layer down to database and infrastructure, with fourteen engineering focus areas">
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Learning roadmap
-
-<img src="assets/learning-roadmap.svg" width="100%" alt="Roadmap: 2026 full-stack and backend foundations, 2027 production engineering, 2027 to 2028 AI engineering">
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## GitHub analytics
+<img src="assets/h-analytics.svg" width="100%" alt="GitHub analytics">
 
 <div align="center">
 
@@ -287,15 +226,9 @@ and the `output` branch exists (see SETUP.md).
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<br>
 
-## Developer philosophy
-
-<img src="assets/philosophy.svg" width="100%" alt="Frameworks change. Engineering fundamentals last. Understand before implementing, build real-world applications, debug instead of blindly copying, learn system architecture, write maintainable code, improve through consistent practice.">
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-## Contact
+<img src="assets/h-contact.svg" width="100%" alt="Contact">
 
 <div align="center">
 
