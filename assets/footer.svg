@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-labelledby="t d" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif">
+<title id="t">Footer: closing statement</title>
+<desc id="d">Gradient waves under the closing statement: Building today. Engineering tomorrow. Creating intelligent software for the future.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050816"/><stop offset="1" stop-color="#0B1534"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<radialGradient id="g1"><stop offset="0" stop-color="#3B82F6" stop-opacity=".30"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".26"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<pattern id="gr" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern><linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient><linearGradient id="w2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<rect width="1200" height="240" rx="0" fill="url(#bg)"/><rect width="1200" height="240" rx="0" fill="url(#gr)"/><text x="600" y="78" font-size="22" font-weight="700" fill="#E6EDF7" text-anchor="middle">Building today. Engineering tomorrow. Creating intelligent software for the future.</text>
+<text x="600" y="110" font-size="14" fill="#22D3EE" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,Menlo,monospace">Sahil Ali Bhutto | github.com/sahilbhutto</text>
+<path d="M0 170C150 130 300 130 450 165S750 215 900 170S1100 130 1200 160V240H0Z" fill="url(#w1)" fill-opacity=".5"/>
+<path d="M0 195C200 160 350 215 600 190S1000 160 1200 195V240H0Z" fill="url(#w2)" fill-opacity=".65"/>
+<path d="M0 220C300 200 500 235 800 218S1100 205 1200 222V240H0Z" fill="url(#ac)"/>
+</svg>

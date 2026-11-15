@@ -1,491 +1,311 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060612,40:0f0a2e,70:1a0f4a,100:060612&height=200&section=header&text=Sahil%20Bhutto&fontSize=60&fontColor=f1eeff&fontAlignY=55&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%94%20Karachi%2C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=75&descSize=18&descColor=9d86e0" width="100%"/>
-
 <div align="center">
 
-<br/>
+<img src="assets/hero-banner.svg" width="100%" alt="Sahil Ali Bhutto, Full-Stack Developer, Backend Engineering, Aspiring AI Engineer">
 
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/-Portfolio-0f0a2e?style=for-the-badge&logo=vercel&logoColor=c4b5fd&labelColor=0f0a2e"/>
-</a>&nbsp;
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/-LinkedIn-0f0a2e?style=for-the-badge&logo=linkedin&logoColor=c4b5fd&labelColor=0f0a2e"/>
-</a>&nbsp;
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/-Twitter%20%2F%20X-0f0a2e?style=for-the-badge&logo=x&logoColor=c4b5fd&labelColor=0f0a2e"/>
-</a>&nbsp;
-<a href="mailto:sahil@example.com">
-  <img src="https://img.shields.io/badge/-Email-0f0a2e?style=for-the-badge&logo=gmail&logoColor=c4b5fd&labelColor=0f0a2e"/>
-</a>&nbsp;
-<a href="https://dev.to/yourhandle">
-  <img src="https://img.shields.io/badge/-Dev.to-0f0a2e?style=for-the-badge&logo=devdotto&logoColor=c4b5fd&labelColor=0f0a2e"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&height=44&lines=FULL-STACK+DEVELOPER;BACKEND+ENGINEERING;BUILDING+TOWARD+AI+ENGINEERING" alt="Typing animation: Full-Stack Developer, Backend Engineering, Building toward AI Engineering">
 
-<br/><br/>
+<a href="https://github.com/sahilbhutto"><img src="https://img.shields.io/badge/GitHub-sahilbhutto-0D1530?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://portfolio-website-eight-omega-59.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
-<img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-Available%20Now-0a1f12?style=flat-square&labelColor=0a1f12&color=0a1f12"/>&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Karachi-Pakistan-0c0c22?style=flat-square&labelColor=0c0c22&color=0c0c22"/>&nbsp;
-<img src="https://img.shields.io/badge/%E2%9C%A6%204%2B%20Years-Experience-0c0c22?style=flat-square&labelColor=0c0c22&color=0c0c22"/>&nbsp;
-<img src="https://img.shields.io/badge/%E2%9A%A1-Building%20in%20Public-160a2e?style=flat-square&labelColor=160a2e&color=160a2e"/>
+<img src="https://komarev.com/ghpvc/?username=sahilbhutto&label=PROFILE+VIEWS&color=3B82F6&style=flat-square" alt="Profile views">
 
 </div>
 
-<br/>
+<!-- TODO: replace YOUR-LINKEDIN-USERNAME above and in the Contact section once confirmed. -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="assets/divider.svg" width="100%" alt="">
 
-<br/>
+## About
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table>
 <tr>
-<td width="55%" valign="top">
+<td valign="top" width="58%">
 
-## `< about me />`
+<p>I'm a Computer Science student at the University of Larkano, in my 4th semester and graduating in 2028, working toward becoming a production-ready Full-Stack AI Engineer.</p>
 
-Hi — I'm **Sahil**, a passionate Full Stack Developer with **4+ years** of experience designing and shipping production-grade software. I build at the intersection of clean architecture, exceptional UI, and real-world impact.
+<p>I started on the frontend with HTML, CSS, JavaScript and React, then moved to full-stack development because I wanted to own what happens behind the interface: APIs, databases, validation, and the architecture that holds a product together. Backend engineering is where most of my time goes now, with Node.js and Express today and Python with FastAPI next.</p>
 
-I care about the *entire* product lifecycle — from whiteboard to final pixel. Whether designing a distributed backend or refining a micro-interaction, I bring the same level of craft to every layer.
-
-<br/>
-
-```yaml
-# sahil.bhutto.yaml
-─────────────────────────────────────────────────────
-  profile:
-    name        : Sahil Bhutto
-    title       : Full Stack Developer
-    location    : Karachi, Pakistan 🇵🇰
-    experience  : 4+ Years
-    timezone    : PKT  (UTC +5)
-
-  right_now:
-    building    : "Multi-tenant SaaS + open-source CLI"
-    learning    : [ Rust, System Design, LLMs ]
-    exploring   : "AI-augmented developer tooling"
-
-  i_believe_in:
-    → Ship fast  —  iterate faster
-    → Code that reads like prose
-    → Products people actually love
-    → Clean abstractions over clever hacks
-
-  reach_out   : sahil@example.com
-─────────────────────────────────────────────────────
-```
+<p>What interests me most is how software is structured, not only how it looks: layered architecture, clean data models, authentication, and the habits that keep code maintainable. The plan is to build AI engineering on top of that base, with LLM applications, RAG and agents, so what I make is intelligent and dependable.</p>
 
 </td>
-<td width="3%"></td>
-<td width="42%" valign="top" align="center">
+<td valign="top" width="42%">
 
-## `< metrics />`
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sahilbhutto&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=cbd5e1&bg_color=00000000&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Contribution+Overview" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilbhutto&theme=transparent&hide_border=true&background=00000000&stroke=1e1b4b&ring=a78bfa&fire=f59e0b&currStreakLabel=cbd5e1&sideNums=a78bfa&dates=475569&currStreakNum=e2e8f0&sideLabels=94a3b8" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbhutto&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=cbd5e1&bg_color=00000000&langs_count=6&custom_title=Top+Languages" width="90%"/>
+<table>
+<tr><td><b>Name</b></td><td>Sahil Ali Bhutto</td></tr>
+<tr><td><b>GitHub</b></td><td>@sahilbhutto</td></tr>
+<tr><td><b>Location</b></td><td>Pakistan</td></tr>
+<tr><td><b>Focus</b></td><td>Full-Stack, Backend Engineering</td></tr>
+<tr><td><b>Studying</b></td><td>BS Computer Science, University of Larkano (4th semester)</td></tr>
+<tr><td><b>Graduating</b></td><td>2028</td></tr>
+<tr><td><b>Goal</b></td><td>Full-Stack AI Engineer by 2028</td></tr>
+</table>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="assets/workflow.svg" width="100%" alt="Engineering workflow: idea, design, architecture, development, testing, deployment">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="assets/divider.svg" width="100%" alt="">
 
-<br/>
+## Education and credentials
 
-<div align="center">
-
-## `< tech stack />`
-*Technologies I reach for every day — trusted in production*
-
-</div>
-
-<br/>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="20">
-
+<table>
 <tr>
-<td width="50%" valign="top" align="center">
-
-**◈ &nbsp;Languages**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=js&theme=dark" height="56" title="JavaScript" />&ensp;
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" height="56" title="TypeScript" />&ensp;
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="56" title="Python" />&ensp;
-<img src="https://skillicons.dev/icons?i=java&theme=dark" height="56" title="Java" />&ensp;
-<img src="https://skillicons.dev/icons?i=rust&theme=dark" height="56" title="Rust" />
-
-<br/><br/>
-<sub><code>JavaScript · TypeScript · Python · Java · Rust</code></sub>
-
+<td valign="top" width="33%">
+<b>University of Larkano</b><br>
+Bachelor of Science in Computer Science<br><br>
+Current semester: 4th<br>
+Expected graduation: 2028
 </td>
-<td width="50%" valign="top" align="center">
-
-**◈ &nbsp;Frontend**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react&theme=dark" height="56" title="React" />&ensp;
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="56" title="Next.js" />&ensp;
-<img src="https://skillicons.dev/icons?i=vue&theme=dark" height="56" title="Vue.js" />&ensp;
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="56" title="Tailwind CSS" />&ensp;
-<img src="https://skillicons.dev/icons?i=redux&theme=dark" height="56" title="Redux" />
-
-<br/><br/>
-<sub><code>React · Next.js · Vue · Tailwind CSS · Redux</code></sub>
-
+<td valign="top" width="33%">
+<b>Aptech</b><br>
+Diploma in Information Systems Management (DISM)
 </td>
-</tr>
-
-<tr>
-<td colspan="2">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top" align="center">
-
-**◈ &nbsp;Backend & APIs**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="56" title="Node.js" />&ensp;
-<img src="https://skillicons.dev/icons?i=express&theme=dark" height="56" title="Express.js" />&ensp;
-<img src="https://skillicons.dev/icons?i=django&theme=dark" height="56" title="Django" />&ensp;
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="56" title="FastAPI" />&ensp;
-<img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="56" title="GraphQL" />
-
-<br/><br/>
-<sub><code>Node.js · Express · Django · FastAPI · GraphQL</code></sub>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**◈ &nbsp;Databases**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="56" title="MongoDB" />&ensp;
-<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="56" title="PostgreSQL" />&ensp;
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="56" title="MySQL" />&ensp;
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" height="56" title="Redis" />&ensp;
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="56" title="SQLite" />
-
-<br/><br/>
-<sub><code>MongoDB · PostgreSQL · MySQL · Redis · SQLite</code></sub>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top" align="center">
-
-**◈ &nbsp;Cloud & DevOps**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="56" title="AWS" />&ensp;
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="56" title="Docker" />&ensp;
-<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="56" title="Kubernetes" />&ensp;
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="56" title="Linux" />&ensp;
-<img src="https://skillicons.dev/icons?i=nginx&theme=dark" height="56" title="Nginx" />
-
-<br/><br/>
-<sub><code>AWS · Docker · Kubernetes · Linux · Nginx</code></sub>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**◈ &nbsp;Tools & Workflow**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git&theme=dark" height="56" title="Git" />&ensp;
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="56" title="GitHub" />&ensp;
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" height="56" title="Figma" />&ensp;
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="56" title="VS Code" />&ensp;
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" height="56" title="Postman" />
-
-<br/><br/>
-<sub><code>Git · GitHub · Figma · VS Code · Postman</code></sub>
-
-</td>
-</tr>
-
-</table>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-## `< featured projects />`
-*Selected work — designed, built, and shipped to production*
-
-</div>
-
-<br/>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="16">
-<tr>
-<td width="50%" valign="top">
-
-### ◈ &nbsp;Project Alpha &nbsp;·&nbsp; `SaaS Platform`
-
-> High-performance **multi-tenant SaaS** with real-time analytics, granular role-based access control, webhook integrations, and a responsive admin dashboard.
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react&theme=dark" height="32" />&ensp;
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="32" />&ensp;
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="32" />&ensp;
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="32" />
-
-<br/><br/>
-
-![](https://img.shields.io/badge/10k%2B%20Active%20Users-0a1c12?style=flat-square&labelColor=0a1c12)&nbsp;
-![](https://img.shields.io/badge/99.9%25%20Uptime-0a1c12?style=flat-square&labelColor=0a1c12)&nbsp;
-![](https://img.shields.io/badge/%3C100ms%20API-0a1c12?style=flat-square&labelColor=0a1c12)
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://link)&ensp;
-[![Source Code](https://img.shields.io/badge/Source%20Code-1a1040?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilbhutto)
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ &nbsp;Project Beta &nbsp;·&nbsp; `AI Tool`
-
-> AI-powered **document analysis engine** with GPT-4 integration, real-time inference pipeline, E2E encryption, and a streaming results interface for enterprise teams.
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="32" />&ensp;
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="32" />&ensp;
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="32" />&ensp;
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="32" />
-
-<br/><br/>
-
-![](https://img.shields.io/badge/GPT--4%20%2B%20Fine--tuned-160a2e?style=flat-square&labelColor=160a2e)&nbsp;
-![](https://img.shields.io/badge/E2E%20Encrypted-160a2e?style=flat-square&labelColor=160a2e)&nbsp;
-![](https://img.shields.io/badge/50k%20Users-160a2e?style=flat-square&labelColor=160a2e)
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://link)&ensp;
-[![Source Code](https://img.shields.io/badge/Source%20Code-1a1040?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilbhutto)
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ◈ &nbsp;Project Gamma &nbsp;·&nbsp; `Open Source`
-
-> Developer **UI tooling library** — actively maintained, 500+ GitHub stars, 10k+ weekly npm downloads, used across 50+ production applications worldwide.
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" height="32" />&ensp;
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="32" />&ensp;
-<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="32" />&ensp;
-<img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="32" />
-
-<br/><br/>
-
-![](https://img.shields.io/badge/%E2%AD%90%20500%2B%20Stars-12160a?style=flat-square&labelColor=12160a)&nbsp;
-![](https://img.shields.io/badge/10k%2Fwk%20npm-12160a?style=flat-square&labelColor=12160a)&nbsp;
-![](https://img.shields.io/badge/50%2B%20Prod%20Apps-12160a?style=flat-square&labelColor=12160a)
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://link)&ensp;
-[![Source Code](https://img.shields.io/badge/Source%20Code-1a1040?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilbhutto)
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ &nbsp;Project Delta &nbsp;·&nbsp; `E-Commerce`
-
-> Mobile-first **e-commerce platform** with real-time inventory sync, WebSocket order tracking, multi-currency support, and Stripe + PayPal payment integration.
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=vue&theme=dark" height="32" />&ensp;
-<img src="https://skillicons.dev/icons?i=express&theme=dark" height="32" />&ensp;
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" height="32" />&ensp;
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="32" />
-
-<br/><br/>
-
-![](https://img.shields.io/badge/50k%2Fmo%20Orders-1a0c08?style=flat-square&labelColor=1a0c08)&nbsp;
-![](https://img.shields.io/badge/WebSocket%20RT-1a0c08?style=flat-square&labelColor=1a0c08)&nbsp;
-![](https://img.shields.io/badge/Stripe%20%2B%20PayPal-1a0c08?style=flat-square&labelColor=1a0c08)
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://link)&ensp;
-[![Source Code](https://img.shields.io/badge/Source%20Code-1a1040?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilbhutto)
-
+<td valign="top" width="33%">
+<b>Academic achievement</b><br>
+2nd position in the Theory of Programming Languages test
 </td>
 </tr>
 </table>
 
-<br/>
+### Certifications
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+Only verified credentials appear here. Fields in `[BRACKETS]` are placeholders to fill in; nothing below is invented.
 
-<br/>
+<table>
+<tr>
+<td valign="top" width="33%">
+<img src="assets/placeholder.svg" width="100%" alt="Certificate preview placeholder"><br>
+<b>Diploma in Information Systems Management (DISM)</b><br>
+Issuer: Aptech<br>
+Issued: [ISSUE DATE]<br>
+Credential ID: [CREDENTIAL ID]<br><br>
+<img src="https://img.shields.io/badge/Verify-add_URL-8A97B5?style=flat-square" alt="Verification link placeholder">
+</td>
+<td valign="top" width="33%">
+<img src="assets/placeholder.svg" width="100%" alt="Certificate preview placeholder"><br>
+<b>[CERTIFICATE TITLE]</b><br>
+Issuer: [ISSUING ORGANIZATION]<br>
+Issued: [ISSUE DATE]<br>
+Credential ID: [CREDENTIAL ID]<br><br>
+<img src="https://img.shields.io/badge/Verify-add_URL-8A97B5?style=flat-square" alt="Verification link placeholder">
+</td>
+<td valign="top" width="33%">
+<img src="assets/placeholder.svg" width="100%" alt="Certificate preview placeholder"><br>
+<b>[CERTIFICATE TITLE]</b><br>
+Issuer: [ISSUING ORGANIZATION]<br>
+Issued: [ISSUE DATE]<br>
+Credential ID: [CREDENTIAL ID]<br><br>
+<img src="https://img.shields.io/badge/Verify-add_URL-8A97B5?style=flat-square" alt="Verification link placeholder">
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Technology ecosystem
+
+Grouped by how I actually use each tool: what I work with comfortably, what I'm learning now, and what comes next.
+
+### Comfortable working with
+
+<table>
+<tr>
+<td width="22%"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap"><br>React Router</td>
+</tr>
+<tr>
+<td><b>Frontend ecosystem</b></td>
+<td><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma"><br>React Hook Form, Zod, Formik, Yup, TanStack Query</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js"><br>REST API development, middleware, async programming, request validation, exception handling</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" alt="MongoDB, MySQL, SQLite"><br>Mongoose, SQL</td>
+</tr>
+<tr>
+<td><b>Developer tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu&theme=dark" alt="Git, GitHub, VS Code, Linux, Ubuntu"></td>
+</tr>
+</table>
+
+### Currently learning
+
+<table>
+<tr>
+<td width="22%"><b>Backend and data</b></td>
+<td><img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker&theme=dark" alt="Python, FastAPI, PostgreSQL, Docker"><br>SQLAlchemy, Alembic, dependency injection</td>
+</tr>
+</table>
+
+### Exploring next
+
+<table>
+<tr>
+<td width="22%"><b>AI engineering</b></td>
+<td>Python for AI, OpenAI API, Gemini API, Claude API, Groq, OpenRouter, Hugging Face, Vercel AI SDK, LangChain, LangGraph, RAG, AI agents, MCP, n8n, LLM applications</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>shadcn/ui</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Featured projects
+
+Each project below is labeled by status. Anything not yet built is marked as planned, and repository links stay placeholders until confirmed.
+
+<!-- TODO: replace the repository links below with the exact repo URLs, and set each Status line to Completed, In progress, or Planned after checking the code. -->
+
+### Project 01: SNT Supermart LRK
+
+<img src="assets/snt-supermart.svg" width="100%" alt="SNT Supermart LRK project cover with architecture diagram">
+
+<table>
+<tr>
+<td valign="top" width="50%">
+<b>Category</b><br>Full-Stack E-Commerce / Supermarket Platform<br><br>
+<b>About</b><br>A modern supermarket platform focused on a complete online shopping experience, with structured product management, category architecture and dynamic product discovery.<br><br>
+<b>Status</b><br>[SET AFTER REPO REVIEW: Completed, In progress or Planned]
+</td>
+<td valign="top" width="50%">
+<b>Stack</b><br>Next.js, React, TypeScript, Tailwind CSS, Node.js / Express.js, REST APIs, MongoDB<br><br>
+<b>Implementation areas</b><br>
+Product management<br>
+Categories and subcategories<br>
+Dynamic category routes<br>
+Filtering, sorting and pagination<br>
+Frontend and backend integration<br>
+Local delivery information for Larkana<br><br>
+<b>Planned production work</b><br>Authentication, RBAC, payments, Docker, Redis, background jobs, testing, CI/CD, deployment, monitoring
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/sahilbhutto?tab=repositories"><img src="https://img.shields.io/badge/Repository-link_pending-0D1530?style=for-the-badge&logo=github" alt="Repository"></a>
+<img src="https://img.shields.io/badge/Live_demo-not_published-8A97B5?style=for-the-badge" alt="Live demo not published">
+
+<img src="assets/placeholder.svg" width="60%" alt="Screenshot placeholder for SNT Supermart LRK">
+
+### Project 02: SkillHub LMS
+
+<img src="assets/skillhub-lms.svg" width="100%" alt="SkillHub LMS project cover with creator to student workflow">
+
+<table>
+<tr>
+<td valign="top" width="50%">
+<b>Category</b><br>Learning Management System / Creator Economy<br><br>
+<b>About</b><br>An online course-selling platform for individual creators who want to create, publish, manage and sell their own courses. The vision is to give independent educators their own digital learning business.<br><br>
+<b>Status</b><br>[SET AFTER REPO REVIEW: Completed, In progress or Planned]
+</td>
+<td valign="top" width="50%">
+<b>Proposed stack</b><br>React / Next.js, TypeScript, Tailwind CSS, backend APIs, database, authentication<br><br>
+<b>Creator</b><br>Dashboard, course creation, management and publishing, free and paid courses, student management<br><br>
+<b>Student</b><br>Browse and enroll in courses, access content, track progress<br><br>
+<b>Business</b><br>Course pricing, payment integration, enrollment management, creator revenue management
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/sahilbhutto?tab=repositories"><img src="https://img.shields.io/badge/Repository-link_pending-0D1530?style=for-the-badge&logo=github" alt="Repository"></a>
+<img src="https://img.shields.io/badge/Live_demo-not_published-8A97B5?style=for-the-badge" alt="Live demo not published">
+
+<img src="assets/placeholder.svg" width="60%" alt="Screenshot placeholder for SkillHub LMS">
+
+### Project 03: ConnectSphere
+
+<img src="assets/connectsphere.svg" width="100%" alt="ConnectSphere project cover with social network illustration">
+
+<table>
+<tr>
+<td valign="top" width="50%">
+<b>Category</b><br>Social Networking / Full-Stack Application<br><br>
+<b>About</b><br>A modern social media-style platform built around user interaction, content sharing and social connections.<br><br>
+<b>Status</b><br>[SET AFTER REPO REVIEW: Completed, In progress or Planned]
+</td>
+<td valign="top" width="50%">
+<b>Stack direction</b><br>React / Next.js, TypeScript, Tailwind CSS, Node.js / Express.js, MongoDB, REST APIs<br><br>
+<b>Core product areas</b><br>
+User registration and profiles<br>
+Posts, likes and reactions, comments<br>
+Follow and connect, social feed<br>
+Media sharing, notifications<br><br>
+<b>Future enhancements</b><br>Real-time messaging, WebSockets, real-time notifications, cloud media storage, search, activity feeds
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/sahilbhutto?tab=repositories"><img src="https://img.shields.io/badge/Repository-link_pending-0D1530?style=for-the-badge&logo=github" alt="Repository"></a>
+<img src="https://img.shields.io/badge/Live_demo-not_published-8A97B5?style=for-the-badge" alt="Live demo not published">
+
+<img src="assets/placeholder.svg" width="60%" alt="Screenshot placeholder for ConnectSphere">
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Software engineering and architecture
+
+Beyond frameworks, these are the fundamentals I'm building depth in.
+
+<img src="assets/engineering-architecture.svg" width="100%" alt="Layered architecture from presentation layer down to database and infrastructure, with fourteen engineering focus areas">
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Learning roadmap
+
+<img src="assets/learning-roadmap.svg" width="100%" alt="Roadmap: 2026 full-stack and backend foundations, 2027 production engineering, 2027 to 2028 AI engineering">
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## GitHub analytics
 
 <div align="center">
 
-## `< activity />`
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sahilbhutto&show_icons=true&hide_border=true&bg_color=0D1530&title_color=22D3EE&icon_color=8B5CF6&text_color=C9D6F2" alt="GitHub stats">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbhutto&layout=compact&hide_border=true&bg_color=0D1530&title_color=22D3EE&text_color=C9D6F2" alt="Most used languages">
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=sahilbhutto&background=0D1530&border=1E2A52&stroke=1E2A52&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=C9D6F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A97B5" alt="Contribution streak">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilbhutto&theme=github-compact&hide_border=true&bg_color=0D1117&color=a78bfa&line=a78bfa&point=f1eeff&area=true&area_color=7c3aed" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilbhutto&bg_color=0D1530&color=C9D6F2&line=3B82F6&point=22D3EE&area=true&area_color=3B82F6&hide_border=true" alt="Contribution activity graph" width="100%">
 
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-## `< achievements />`
-
-<br/>
-
-![](https://img.shields.io/badge/Commits-1k%2B-a78bfa?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/PRs%20Merged-200%2B-0284c7?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Open%20Source-10%2B%20Repos-0a1c12?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Stars%20Earned-500%2B-f59e0b?style=for-the-badge&logo=github&logoColor=white)
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-## `< contribution grid />`
-
-<br/>
+<!--
+CONTRIBUTION SNAKE: uncomment after the "Generate Snake" workflow has run once
+and the `output` branch exists (see SETUP.md).
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sahilbhutto/sahilbhutto/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sahilbhutto/sahilbhutto/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://github.com/sahilbhutto/sahilbhutto/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilbhutto/sahilbhutto/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilbhutto/sahilbhutto/output/github-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sahilbhutto/sahilbhutto/output/github-snake.svg" width="100%">
 </picture>
+-->
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+## Developer philosophy
 
-<br/>
+<img src="assets/philosophy.svg" width="100%" alt="Frameworks change. Engineering fundamentals last. Understand before implementing, build real-world applications, debug instead of blindly copying, learn system architecture, write maintainable code, improve through consistent practice.">
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Contact
 
 <div align="center">
 
-## `< philosophy />`
+<a href="https://github.com/sahilbhutto"><img src="https://img.shields.io/badge/GitHub-sahilbhutto-0D1530?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://portfolio-website-eight-omega-59.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-add_address-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<br><br>
+
+<img src="assets/footer.svg" width="100%" alt="Building today. Engineering tomorrow. Creating intelligent software for the future.">
 
 </div>
-
-<br/>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="20">
-<tr>
-<td width="33%" valign="top" align="center">
-
-**`01 — Engineering`**
-
-<br/>
-
-*The best architecture is the one your team can understand at 2am during an incident. Build for clarity, not cleverness.*
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**`02 — Product`**
-
-<br/>
-
-*Every feature that doesn't serve a user need is technical debt in disguise. Constraints are features. Simplicity is hard.*
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**`03 — Growth`**
-
-<br/>
-
-*The moment a stack feels too comfortable, learn something that humbles you. Discomfort is the signal, not the problem.*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-## `< let's connect />`
-
-<br/>
-<br/>
-
-
-> *"I'm always open to ambitious projects, meaningful collaborations,*
-> *and opportunities to build things that genuinely matter.*
-> *Drop a message — I reply within 24 hours."*
-
-<br/>
-
-[![Email Me](https://img.shields.io/badge/%E2%9C%89%20Email%20Me-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil@example.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0284c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)&nbsp;
-[![Portfolio](https://img.shields.io/badge/View%20My%20Work-1a1040?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sahilbhutto&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS&abbreviated=true"/>&ensp;
-<img src="https://img.shields.io/github/followers/sahilbhutto?style=for-the-badge&color=0284c7&label=FOLLOWERS&logo=github&logoColor=white"/>
-
-<br/><br/>
-
-<sub>Designed &amp; crafted with precision &nbsp;·&nbsp; <b>Sahil Bhutto</b> &nbsp;·&nbsp; Karachi, Pakistan 🇵🇰</sub>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060612,40:0f0a2e,70:1a0f4a,100:060612&height=120&section=footer" width="100%"/>

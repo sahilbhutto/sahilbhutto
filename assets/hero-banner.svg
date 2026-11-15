@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-labelledby="t d" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif">
+<title id="t">Sahil Ali Bhutto hero banner</title>
+<desc id="d">Dark banner with the name Sahil Ali Bhutto, headline Full-Stack Developer, Backend Engineering, Aspiring AI Engineer, and isometric blue, violet and cyan cubes.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050816"/><stop offset="1" stop-color="#0B1534"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<radialGradient id="g1"><stop offset="0" stop-color="#3B82F6" stop-opacity=".30"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".26"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<pattern id="gr" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<linearGradient id="t1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#93C5FD"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+<linearGradient id="l1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#1E3A8A"/></linearGradient>
+<linearGradient id="r1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1D4ED8"/><stop offset="1" stop-color="#172554"/></linearGradient>
+<linearGradient id="t2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C4B5FD"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<linearGradient id="l2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7C3AED"/><stop offset="1" stop-color="#3B1D8F"/></linearGradient>
+<linearGradient id="r2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6D28D9"/><stop offset="1" stop-color="#2E1065"/></linearGradient>
+<g id="cb"><polygon points="0,-60 52,-30 0,0 -52,-30" fill="url(#t1)"/><polygon points="-52,-30 0,0 0,60 -52,30" fill="url(#l1)"/><polygon points="52,-30 0,0 0,60 52,30" fill="url(#r1)"/></g>
+<g id="cv"><polygon points="0,-60 52,-30 0,0 -52,-30" fill="url(#t2)"/><polygon points="-52,-30 0,0 0,60 -52,30" fill="url(#l2)"/><polygon points="52,-30 0,0 0,60 52,30" fill="url(#r2)"/></g>
+<g id="cw" fill="none" stroke="#22D3EE" stroke-width="1.5" stroke-linejoin="round"><polygon points="0,-60 52,-30 52,30 0,60 -52,30 -52,-30"/><polyline points="-52,-30 0,0 52,-30"/><line x1="0" y1="0" x2="0" y2="60"/></g></defs>
+<rect width="1200" height="460" rx="20" fill="url(#bg)"/><rect width="1200" height="460" rx="20" fill="url(#gr)"/>
+<circle cx="960" cy="220" r="320" fill="url(#g1)"/><circle cx="220" cy="420" r="280" fill="url(#g2)"/>
+<text x="64" y="118" font-size="15" fill="#22D3EE" font-family="'JetBrains Mono','SF Mono',Consolas,Menlo,monospace">github.com/sahilbhutto</text>
+<text x="62" y="192" font-size="62" font-weight="800" fill="#F1F5FF" letter-spacing="-1">Sahil Ali Bhutto</text>
+<rect x="64" y="212" width="120" height="4" rx="2" fill="url(#ac)"/>
+<text x="64" y="258" font-size="22" font-weight="600" fill="#E6EDF7">Full-Stack Developer | Backend Engineering</text>
+<text x="64" y="288" font-size="22" font-weight="600" fill="#E6EDF7">Aspiring AI Engineer</text>
+<text x="64" y="346" font-size="17" fill="#8A97B5">Engineering modern digital experiences.</text>
+<text x="64" y="372" font-size="17" fill="#8A97B5">Building scalable systems.</text>
+<text x="64" y="398" font-size="17" fill="#8A97B5">Exploring intelligent software.</text>
+<use href="#cb" transform="translate(940 320) scale(1.5)"/>
+<use href="#cv" transform="translate(940 230) scale(1.5)"/>
+<use href="#cw" transform="translate(800 150) scale(.8)"/>
+<use href="#cb" transform="translate(1085 250) scale(.7)"/>
+<use href="#cw" transform="translate(770 330) scale(.5)"/>
+<use href="#cv" transform="translate(1110 330) scale(.5)"/>
+<rect x="700" y="64" width="190" height="34" rx="17" fill="#0E1A3A" stroke="#22D3EE" stroke-opacity=".45"/><circle cx="722" cy="81" r="5" fill="#34D399"/><text x="737" y="86" font-size="13" fill="#C9D6F2" font-family="'JetBrains Mono','SF Mono',Consolas,Menlo,monospace">GET /api/products</text>
+<rect x="960" y="400" width="190" height="34" rx="17" fill="#0E1A3A" stroke="#8B5CF6" stroke-opacity=".5"/><circle cx="982" cy="417" r="5" fill="#8B5CF6"/><text x="997" y="422" font-size="13" fill="#C9D6F2" font-family="'JetBrains Mono','SF Mono',Consolas,Menlo,monospace">git push origin main</text>
+</svg>
